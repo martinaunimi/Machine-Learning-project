@@ -5,3 +5,5 @@ Two neural networks architectures for multi-class classification will be impleme
 
 ## Keywords
 Neural networks, urban sound, multi-class classification
+## Dataset
+Further information about the dataset is available in: J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014
